@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with getting jobs as a software developer
 - 💬 Ask me about software development and web programming
 - 📫 How to reach me: luo-x-dev
-- 😄 Pronouns: Luo
+- 😄 Pronouns: Him
 - ⚡ Fun fact: reading, jogging, yoga
